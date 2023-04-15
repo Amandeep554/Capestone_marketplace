@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "jwtPrivateKey",
+    "db": "mongodb://localhost:27017/mymarketplace-backend",
+    "FIREBASE_PRIVATE_KEY": "AIzaSyBmCznrxMoocyoOcmSpKGxJ4pBeSue6msw"
+}
